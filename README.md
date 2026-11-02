@@ -1,11 +1,14 @@
-* Diwali (7x), Accenture 
+* Holidays (7x), San Francisco
+* Diwali, Accenture Mountain View
+* Diwali (4x), Accenture Pleasanton
+* Diwali, Accenture New York City
 * Camino de los Muertos, SCU
 * Cardi B - Little Miss Drama Tour, San Francisco 
 * Football Fan Fest, Mountain View
 * Rhythms of the Night VIP Experience, Puerto Vallarta 
 * Christmas Eve, Puerto Vallarta
 * German Holiday Market (Weihnachtsmarkt), Mountain View
-* Oktoberfest (2x), Accenture
+* Oktoberfest (2x), Accenture San Francisco
 * PW 15-Year Anniversary Night Three w/ Wreckno, Sippy & Baby Kush, San Francisco
 * DJ Mumbai Rani, San Jose
 * DJ Shea, Oakland
