@@ -3,6 +3,8 @@
 * Diwali, Accenture Mountain View
 * Diwali (4x), Accenture Pleasanton
 * Diwali, Accenture New York City
+* Halloween, Mountain View
+* Halloween, New York City
 * Camino de los Muertos, SCU
 * Cardi B - Little Miss Drama Tour, San Francisco 
 * Football Fan Fest, Mountain View
