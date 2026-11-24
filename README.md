@@ -1,8 +1,8 @@
 * Holidays (7x), San Francisco
 * Thanksgiving Pie & Gratitude, Accenture Mountain View
 * Diwali, Accenture Mountain View
-* Diwali (4x), Accenture Pleasanton
-* Diwali, Accenture New York City
+* Diwali (3x), Accenture Pleasanton
+* Diwali (2x), Accenture New York City
 * Halloween, Mountain View
 * Halloween, New York City
 * Camino de los Muertos, SCU
